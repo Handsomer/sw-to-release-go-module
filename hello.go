@@ -1,4 +1,4 @@
-package pkg
+package module sw-to-release-go-module
 
 import "fmt"
 
