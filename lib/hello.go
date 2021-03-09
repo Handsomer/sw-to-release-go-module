@@ -1,4 +1,4 @@
-package github.com/Handsomer/sw-to-release-go-module
+package lib
 
 import "fmt"
 
